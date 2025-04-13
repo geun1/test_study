@@ -66,6 +66,7 @@
 -   시스템 콜 인터페이스는 해당 번호로 인덱싱된 테이블을 관리하고, OS 커널에서 시스템 콜을 부른다
 
 ### 3. 컴퓨터 구성 Review
+![image](https://github.com/user-attachments/assets/ad5c2b43-2659-4bb0-b26f-a77b70bb2716)
 
 -   **Data path 흐름**
 
